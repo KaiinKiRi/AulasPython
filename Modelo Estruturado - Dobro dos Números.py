@@ -8,5 +8,4 @@ r2 = dobro(b)
 print(r)
 print(r2)
 
-display: block;
-margin: auto;
+
